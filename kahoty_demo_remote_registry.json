@@ -15,14 +15,14 @@
       "expires_at": "2026-05-21 13:20:07",
       "install_id": "865005BD-2760-46E2-A643-254089E110C7",
       "machine_id": "9892823F269EA8716E309618",
-      "reason": "ok",
-      "status": "ACTIVE",
+      "reason": "fin test",
+      "status": "BLOCKED",
       "tester_contact": "",
       "tester_name": "",
-      "updated_at": "2026-05-06 12:54:02"
+      "updated_at": "2026-05-06 13:08:08"
     }
   },
-  "generated_at": "2026-05-06 13:07:26",
+  "generated_at": "2026-05-06 13:08:25",
   "schema": 1,
-  "signature": "f809ec9c25e7a5051fa9e06b636ae12e224e530bb0b15646e93226fa5fea4a57"
+  "signature": "7508c6ba3c14bae8c43adbeeb7532d4b935bd946d0d3168a319d149cd88ac12d"
 }
