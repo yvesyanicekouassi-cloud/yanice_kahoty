@@ -1,7 +1,28 @@
 {
   "app": "KahotyTMSDemoSQLite",
-  "deployments": {},
-  "generated_at": "2026-05-06 08:10:36",
+  "deployments": {
+    "2B3977A9-E08C-4124-A80D-D47DF939753F|D30B3DABED6DE62B73C8BA2B": {
+      "expires_at": "2026-05-07 08:14:34",
+      "install_id": "2B3977A9-E08C-4124-A80D-D47DF939753F",
+      "machine_id": "D30B3DABED6DE62B73C8BA2B",
+      "reason": "",
+      "status": "BLOCKED",
+      "tester_contact": "0574886918",
+      "tester_name": "yanice",
+      "updated_at": "2026-05-06 08:22:17"
+    },
+    "865005BD-2760-46E2-A643-254089E110C7|9892823F269EA8716E309618": {
+      "expires_at": "2026-05-21 13:20:07",
+      "install_id": "865005BD-2760-46E2-A643-254089E110C7",
+      "machine_id": "9892823F269EA8716E309618",
+      "reason": "fin test",
+      "status": "BLOCKED",
+      "tester_contact": "",
+      "tester_name": "",
+      "updated_at": "2026-05-06 12:28:55"
+    }
+  },
+  "generated_at": "2026-05-06 12:29:47",
   "schema": 1,
-  "signature": "34a7e0abd94b3571068cd487868b6acde4d2644767aadc53d5bf5f1dcabf1fa2"
+  "signature": "43d6408263c3268d67e39f3e5ce16e7289b6390d2a35d4f0156fd2bb5c499347"
 }
