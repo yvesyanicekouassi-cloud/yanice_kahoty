@@ -40,9 +40,19 @@
       "tester_contact": "",
       "tester_name": "",
       "updated_at": "2026-05-06 13:08:08"
+    },
+    "8E2B42A1-A7B7-4897-8C77-06382783FCA9|B27F0657894F058DC0604E7E": {
+      "expires_at": "2026-05-24 12:48:59",
+      "install_id": "8E2B42A1-A7B7-4897-8C77-06382783FCA9",
+      "machine_id": "B27F0657894F058DC0604E7E",
+      "reason": "",
+      "status": "ACTIVE",
+      "tester_contact": "serge",
+      "tester_name": "serge",
+      "updated_at": "2026-05-14 12:48:59"
     }
   },
-  "generated_at": "2026-05-14 09:58:02",
+  "generated_at": "2026-05-14 12:49:13",
   "schema": 1,
-  "signature": "6b18b5f370bf8e6add27bff139994190040633edddde0deaed05e300f703fae1"
+  "signature": "c12f4c84d5ed5e3059980e26c05613194a8ca841992daf5157e5ceec6d40cbc2"
 }
