@@ -5,11 +5,11 @@
       "expires_at": "2026-05-07 08:14:34",
       "install_id": "2B3977A9-E08C-4124-A80D-D47DF939753F",
       "machine_id": "D30B3DABED6DE62B73C8BA2B",
-      "reason": "fin",
+      "reason": "ok",
       "status": "BLOCKED",
       "tester_contact": "0574886918",
       "tester_name": "yanice",
-      "updated_at": "2026-05-14 09:29:10"
+      "updated_at": "2026-05-14 16:37:20"
     },
     "53F74726-65A1-4B17-BFCA-524B9D67EAC3|CF016CBE3596D1C4075DB861": {
       "expires_at": "2026-05-08 14:18:53",
@@ -52,7 +52,7 @@
       "updated_at": "2026-05-14 12:48:59"
     }
   },
-  "generated_at": "2026-05-14 12:49:13",
+  "generated_at": "2026-05-14 16:37:33",
   "schema": 1,
-  "signature": "c12f4c84d5ed5e3059980e26c05613194a8ca841992daf5157e5ceec6d40cbc2"
+  "signature": "2f9e8abca41a36a6142c5631af172b8c577ba5dc1ec24ba42f5a140af1222b7a"
 }
